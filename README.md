@@ -1,4 +1,8 @@
 # latihankuis
+Nama  : Nida Lisana Sidqi
+NIM   : 124220098
+Kelas : SI-E
+Latihan Kuis
 
 A new Flutter project.
 
